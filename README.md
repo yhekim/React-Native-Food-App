@@ -6,7 +6,7 @@
 
 Project aims to create a Food Menu UI App.
 
-![gif](https://raw.githubusercontent.com/yhekim/React-Native-TodoList-withState/main/react-native-todoList.gif)
+![gif](https://raw.githubusercontent.com/yhekim/React-Native-Food-App/main/foodApp.gif)
 
 ## Available Scripts
 
